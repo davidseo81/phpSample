@@ -13,7 +13,8 @@ ini_set("display_errors", 1);
 include_once 'class/require_class.php';
 
 //글로벌 선언 (모든페이지에서 공통적으로 사용될 변수선언)
-global $_CONF_PATH_ROOT;
 global $_CONF_PATH_LIB;
+global $_CONF_PATH_ROOT;
 
-$_CONF_PATH_LIB = '/Users/davidseo/Documents/git/home2/_lib/';
+//개인경로설정
+$_CONF_PATH_LIB = '/Users/davidseo/Documents/git/phpWaggu/_lib/';

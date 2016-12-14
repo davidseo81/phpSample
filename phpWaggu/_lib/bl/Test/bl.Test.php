@@ -46,6 +46,7 @@ class Test{
 	
 	//테스트로 실행할 메쏘드
 	function abc(){
+		echo 'abc호출됨';
 		return 'abc';
 	}
 	
