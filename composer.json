@@ -3,6 +3,6 @@
 	"description": "This package from whitebee's framework so allright's reserve whitebee",
 	"require": {
 		"php": "^5.3.3 || ^7.2",
-		"davidseo_vendor/ih-framework": "1.0.*@beta"
+		"davidseo_vendor/ih-framework": "1.0.0"
 	}
 }
