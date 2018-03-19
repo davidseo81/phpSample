@@ -1,8 +1,8 @@
 {
 	"name": "davidseo_vendor/ih-framework",
-	"description": "This package from whitebee",
+	"description": "This package from whitebee's framework so allright's reserve whitebee",
 	"require": {
 		"php": "^5.3.3 || ^7.0",
-		"another-vendor/package": "@dev"
+		"another-vendor/package": "1.0.*@beta"
 	}
 }
