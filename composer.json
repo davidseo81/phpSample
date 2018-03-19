@@ -1,0 +1,8 @@
+{
+	"name": "davidseo_vendor/ih-framework",
+	"description": "This package from whitebee",
+	"require": {
+		"php": "^5.3.3 || ^7.0",
+		"another-vendor/package": "1.*"
+	}
+}
